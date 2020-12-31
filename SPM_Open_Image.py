@@ -3,7 +3,7 @@ v0.2 Started on 24/08/2018
 
 Author: Koen
 
-Purpose: Convert photonmaps using Python to WsXM readable format.
+Purpose: Open Generix SPM data in Omicron Matrix format.
 Important: Code must be re-uable for advanced data-analysis later.
 
 """
